@@ -1,14 +1,17 @@
 # PRONOM – modernisation of data infrastructure and service
 
 ## Background
-PRONOM is a technical registry of file formats which is created, maintained and managed by The National Archives. 
+PRONOM is a technical registry of file formats which is created, maintained and managed by The National Archives. PRONOM contains information about a wide range of file formats and includes descriptions, extensions, media types, and file format identification signatures.
 
-The PRONOM service is used by archives, libraries and memory institutions around the globe, many of which contribute data to the service. 
-The service consists of two key elements:
+The PRONOM service is used by archives, libraries and other memory and learning institutions around the globe, many of which contribute data to the service. 
+The service includes two key elements:
 -	File format signatures
+
 A file format signature is a pattern, unique to a particular file format (or version of a file format) which enables digital objects to be characterised and identified. This identification is essential to the long-term preservation of digital records.
+
 -	The PRONOM service
 The service offers regular releases of the file format signatures. These are available for download via a web service. Additional tools to assist in researching and creating new signatures are also available.
+
 Various tools and services use the PRONOM signatures to carry out file format identification. The most widely use of these is DROID. This is also developed and maintained by The National Archives.
 
 ## Requirements
