@@ -10,6 +10,7 @@ The service includes two key elements:
 A file format signature is a pattern, unique to a particular file format (or version of a file format) which enables digital objects to be characterised and identified. This identification is essential to the long-term preservation of digital records.
 
 -	The PRONOM service
+
 The service offers regular releases of the file format signatures. These are available for download via a web service. Additional tools to assist in researching and creating new signatures are also available.
 
 Various tools and services use the PRONOM signatures to carry out file format identification. The most widely use of these is DROID. This is also developed and maintained by The National Archives.
